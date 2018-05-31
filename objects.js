@@ -1,4 +1,4 @@
-var playlist={usher: "Let it Burn"};
+var playlist={Phil Ochs: "My Bloody Valentine"};
 
 function updatePlaylist(playlist, artistName, songTitle) {
   return playlist
